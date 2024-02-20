@@ -126,8 +126,9 @@ p {
 
 form {
     margin-top: 20px;
-    margin-left:200px;
-    margin-right: 200px;
+    margin-left:125px;
+    margin-right: 125px;
+    margin-bottom: 10px;
     display: flex; /* Use flexbox */
     justify-content: center; 
     align-items: center; 
